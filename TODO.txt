@@ -1,1 +1,14 @@
-Titre de l'application : m3m_sample
+
+Langage de programmation de l'application :
+Java
+
+Serveur d'application :
+tomcat 8
+
+Couleurs de l'application :
+Rouge sur fond vert
+
+Technologies web :
+ - Servlet & JSF
+ - Wicket
+ - Liferay
