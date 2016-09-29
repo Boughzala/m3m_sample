@@ -12,3 +12,4 @@ Technologies web :
  - Servlet & JSF
  - Wicket
  - Liferay
+ - Linux & windows
