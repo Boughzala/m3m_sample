@@ -13,3 +13,6 @@ Technologies web :
  - Wicket
  - Liferay
  - Linux & windows
+
+Application lourde :
+Technologie Swing
