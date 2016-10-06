@@ -13,3 +13,5 @@ Technologies web :
  - Wicket
  - Liferay
  - Linux & windows
+ 
+ -- elipse work with Egit
